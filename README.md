@@ -1,3 +1,7 @@
+-Read me file <a href="https://github.com/Sameersito010/Hotel-Analysis/blob/main/README.md">Read Me</a>
+-Dashboard image <a href="https://github.com/Sameersito010/Hotel-Analysis/blob/main/Hotel%20analysis.jpg">Image<a/>
+-Exel file <a href="https://github.com/Sameersito010/Hotel-Analysis/blob/main/Hotel%20Analysis.xlsx"> Excel file</a>
+
 # Hotel-Analysis visualisation using ms excel
 Objectives
 1.	Maximize Revenue: Increase booking value across all room types and sources.
